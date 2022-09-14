@@ -1,0 +1,11 @@
+{
+  "name": "new-banco-tester",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "knex": "^2.3.0",
+    "oracledb": "^5.5.0",
+    "pg": "^8.8.0"
+  }
+}
